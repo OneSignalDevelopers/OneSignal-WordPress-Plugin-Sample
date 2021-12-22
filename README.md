@@ -1,4 +1,4 @@
-# OneSignal-WordPress-Plugin-Sample+
+# OneSignal-WordPress-Plugin-Sample
 
 This is a very simple example demonstrating how to create a WordPress plugin. The WP plugin will be adding some HTML into all of our blog post. The HTML added will look like the following:
 
