@@ -7,6 +7,7 @@ This is a very simple example demonstrating how to create a WordPress plugin. Th
     <img src="https://pbs.twimg.com/profile_images/1431129476151357441/AZmUEptx_400x400.jpg" width="40"/>
 </p>
 
+## How to create a WordPress Plugin?
 The first step to create a folder where the code of you WP plugin is going to live. Then create a `.php` file with the name of your plugin Eg. `my-fist-plugin.php`.
 
 Every WordPress plugin needs to contain the plugin information. Add the following code to you plugin php file and enter the information you want for your plugin. You can edit all the fields below.
